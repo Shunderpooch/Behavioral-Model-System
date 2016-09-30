@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Stephen\\AndroidStudioProjects\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_default_app_launcher.png",
+        "source": "C:\\Users\\Stephen\\AndroidStudioProjects\\android-AppUsageStatistics\\Application\\src\\main\\res\\drawable-mdpi\\ic_default_app_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Stephen\\AndroidStudioProjects\\android-AppUsageStatistics\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Stephen\\AndroidStudioProjects\\android-AppUsageStatistics\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

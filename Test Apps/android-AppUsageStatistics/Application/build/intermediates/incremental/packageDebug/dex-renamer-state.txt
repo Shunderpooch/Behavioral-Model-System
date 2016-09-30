@@ -1,0 +1,7 @@
+#Thu Sep 29 01:28:18 EDT 2016
+base.0=C\:\\Users\\Stephen\\AndroidStudioProjects\\android-AppUsageStatistics\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_bbebe250b88d1215d5b54f4a9a67de7a938e2740
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Stephen\\AndroidStudioProjects\\android-AppUsageStatistics\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a2089688cda9e9a9aa9f38c58ce1089d2f8151a4\\classes.dex
+base.1=C\:\\Users\\Stephen\\AndroidStudioProjects\\android-AppUsageStatistics\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a2089688cda9e9a9aa9f38c58ce1089d2f8151a4
+file.0=C\:\\Users\\Stephen\\AndroidStudioProjects\\android-AppUsageStatistics\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_bbebe250b88d1215d5b54f4a9a67de7a938e2740\\classes.dex

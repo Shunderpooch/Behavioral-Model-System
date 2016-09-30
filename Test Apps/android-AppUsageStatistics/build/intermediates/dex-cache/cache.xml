@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_6d5a0c0963cb1a62f7760fd9db6794d5192fbe5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6a603e3db843251bce77d0b3ae5bbeca9629f297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_2d5a189567d3107429749d7738a69d5745f63d8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4dfae4dcdee067d51f92583cf10559868fffac66">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bbebe250b88d1215d5b54f4a9a67de7a938e2740\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2883756ca2acb67c70cb8d021fc0a5723b1bc9b6">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a2089688cda9e9a9aa9f38c58ce1089d2f8151a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_f0183981880031d3ded175f20fb8ab73d617433a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6d975adca5336d96a96bd3f9dc9e9af2cdf7238c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_fd03a450c558a8afcdc8c849b3cd9685bbefd888\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_9c9beec3149ba1d365ba77bf0a15f863c11413b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_4041e982b020fb4e78e9b7c0ba28d1a1a43c6904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2f7ac613e9f31b5eaedd13ce3e5151f5a72d5246\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_4517036e0f8b21731f9c88517c633540be3097cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_c5f48ece72d51ad4f0be5042e1b25e1c9c8a03f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_951da3eb71e6ba576298424ea5ecbf748e7690c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_8999e842beb9b9b974842dc316ba3eed14e57884\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Stephen\AndroidStudioProjects\android-AppUsageStatistics\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_4b2aed6810c8315f133cb7f551a4ac7233b3baa3\classes.dex" />
+    </item>
+
+</items>
